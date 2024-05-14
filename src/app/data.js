@@ -1,91 +1,75 @@
-/*
-Websites:
 
-- https://github.com/pmndrs/gltfjsx (GLTF JSX for 3D Models)
-- https://lucide.dev/icons/ (Lucide Icons)
-- https://github.com/anuraghazra/github-readme-stats (Github Readme Stats)
-- https://skillicons.dev (Skill Icons to show skills)
-- https://github-readme-streak-stats.herokuapp.com (Github Readme Streak Stats)
-
-:root {
-  --background: 27 27 27;
-  --foreground: 225 225 225;
-  --muted: 115 115 115;
-  --accent: 254 254 91; #FEFE5B
-}
-
-*/
 
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    name: "Yoom",
+    description: "This platform offers Video Confrencing",
+    date: "2024-05-25",
+    demoLink: "https://yoom-app-woadzz.vercel.app/",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    name: "From builder",
+    description: "Create forms with a stunning drag and drop designer",
+    date: "2024-05-1",
+    demoLink: "https://ts-form-builder.vercel.app/",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    name: "Movix",
+    description: "I've crafted platform to explore favorite Movies and TV Shows.",
+    date: "2023-08-10",
+    demoLink: "https://movix-tejasvi8686.vercel.app/",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    name: "Brainwave",
+    description: "Create modern website with sleek parallax effects",
+    date: "2024-05-8",
+    demoLink: "https://ts-brainwave.vercel.app/",
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    name: "Gemini Clone",
+    description: "Built and deployed a fully responsive modern Gemnini Clone.",
+    date: "2024-05-10",
+    demoLink: "https://ts-gemini-clone.vercel.app/",
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
-    date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    name: "Iphone 15 website",
+    description: "GSAP animations and Three.js 3D effects.",
+    date: "2024-4-15",
+    demoLink: "https://ts-apple-iphone.vercel.app/",
   },
   {
     id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
-    date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
+    name: "E-commerce",
+    description: "Apneck is a responsive full e-commerce website.",
+    date: "2023-08-18",
+    demoLink: "https://tejasviapneck.netlify.app/",
   },
   {
     id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
-    date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
+    name: "Gym Website",
+    description: "This project improve my React skills",
+    date: "2024-7-15",
+    demoLink: "https://react-modern-website.web.app/",
   },
   {
     id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
-    date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
+    name: "Youtube Clone",
+    description: "This project is result of dedicated coding.",
+    date: "2023-08-22",
+    demoLink: "https://clone-c42e9.web.app/",
   },
   {
     id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    name: "TravelApp(UI/UX)",
+    description: "Built and deployed a fully responsive modern.",
+    date: "2024-04-19",
+    demoLink: "https://travelapp-ui-ux.vercel.app/",
   },
 ];
 
