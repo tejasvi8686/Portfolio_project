@@ -98,7 +98,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://drive.google.com/file/d/1JUWWrtniz_nY8iFKImy6DalpNP6sXjn-/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1qbGLrewhlWwFh0OezHwwu-RPovL4VKp5/view?usp=sharing",
     icon: "resume",
     newTab: true,
   },
